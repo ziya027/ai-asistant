@@ -1,0 +1,8 @@
+bot.db
+last_update.txt
+.env
+__pycache__/
+*.pyc
+.vscode/
+*.sqlite3
+*.log
