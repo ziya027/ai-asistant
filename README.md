@@ -1,1 +1,1 @@
-# ai-asistant
+salam bu kod pythonda ki ilk böyük layihem idi. sehflerim ola biler. lakin əsas məqsədini kod bu formada həll edir.git checkout -- README.md
